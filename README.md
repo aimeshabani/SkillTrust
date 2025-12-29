@@ -3,7 +3,7 @@
 ## 🌍 Overview
 
 **SkillTrust** is a community-driven platform designed to identify, recognize, and promote the most skilled and trusted service providers within each local zone.  
-It enables communities to vote for professionals based on skill, trustworthiness, and service quality, building stronger local economies through transparency and recognition.
+It enables users to vote for professionals based on skill, trustworthiness, and service quality, building stronger local economies through transparency and recognition.
 
 ---
 
@@ -11,8 +11,8 @@ It enables communities to vote for professionals based on skill, trustworthiness
 
 ### 👤 User Accounts & Profiles
 Users can register as:
-- Service Providers
-- Community Members (Voters)
+- Service Providers  
+- Users (Voters)
 
 Service providers create detailed profiles including:
 - Name and photo  
@@ -20,7 +20,7 @@ Service providers create detailed profiles including:
 - Zone / location  
 - Description of services  
 - Contact information  
-- Community ratings & votes  
+- User ratings & votes  
 
 ---
 
@@ -43,8 +43,8 @@ Every professional is linked to a local **zone**, allowing users to discover tru
 
 ---
 
-### 🗳️ Community Voting System
-Community members vote for professionals based on:
+### 🗳️ User Voting System
+Users vote for professionals based on:
 - Skill level  
 - Trustworthiness  
 - Service quality  
@@ -72,7 +72,7 @@ The platform provides:
 ### 🤝 Trust & Reputation System
 Each professional builds a reputation over time through:
 - Votes  
-- Community feedback  
+- User feedback  
 - Service history  
 
 This system helps customers make confident service decisions.
